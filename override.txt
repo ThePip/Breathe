@@ -1,0 +1,3 @@
+mcl_fences:fence top,bottom mcl_fences_fence_oak_top.png
+mcl_fences:fence_gate top,bottom mcl_fences_fence_gate_oak.png
+mcl_fences:fence_gate sides mcl_fences_fence_gate_oak.png
